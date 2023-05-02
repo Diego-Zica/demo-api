@@ -1,14 +1,63 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    {
+      "id": "1",
+      "nome": "user1",
+      "email": "user1@gmail.com",
+      "senha": "123456",
+      "endereco": "Rua do user1",
+      "telefone": "(31)98888-8888"
+    },
+    {
+      "id": "2",
+      "nome": "user2",
+      "email": "user2@gmail.com",
+      "senha": "123456",
+      "endereco": "Rua do user2",
+      "telefone": "(31)98888-8888"
+    },
+    {
+      "id": "3",
+      "nome": "user3",
+      "email": "user3@gmail.com",
+      "senha": "123456",
+      "endereco": "Rua do user3",
+      "telefone": "(31)98888-8888"
+    },
+    {
+      "id": "4",
+      "nome": "user4",
+      "email": "user4@gmail.com",
+      "senha": "123456",
+      "endereco": "Rua do user4",
+      "telefone": "(31)98888-8888"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products": [
+    {
+      "id": "1",
+      "nome": "Hamburger 1",
+      "preco": "19,90"
+    },
+    {
+      "id": "2",
+      "nome": "Hamburger 2",
+      "preco": "9,90"
+    },
+    {
+      "id": "3",
+      "nome": "Hamburger 3",
+      "preco": "39,90"
+    },
+    {
+      "id": "4",
+      "nome": "Hamburger 4",
+      "preco": "59,90"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "orders": [
+    {
+      "order_id": "1"
+    }
+  ]
 }
