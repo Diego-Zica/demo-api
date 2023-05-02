@@ -123,6 +123,7 @@
     {
       "id": "00001",
       "nome": "Hamburger 4",
+      "cliente": "Cliente1",
       "preco": "19,90",
       "endereco": "Rua do user12",
       "telefone": "(31)98888-8888"
@@ -130,6 +131,7 @@
     {
       "id": "00002",
       "nome": "Hamburger 1",
+      "cliente": "Cliente2",
       "preco": "29,90",
       "endereco": "Rua do user12",
       "telefone": "(31)98888-8888"
@@ -137,6 +139,7 @@
     {
       "id": "00003",
       "nome": "Hamburger 3",
+      "cliente": "Cliente3",
       "preco": "49,90",
       "endereco": "Rua do user12",
       "telefone": "(31)98888-8888"
@@ -144,6 +147,7 @@
     {
       "id": "00004",
       "nome": "Hamburger 2",
+      "cliente": "Cliente4",
       "preco": "79,90",
       "endereco": "Rua do user12",
       "telefone": "(31)98888-8888"
